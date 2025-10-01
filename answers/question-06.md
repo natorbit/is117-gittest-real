@@ -1,0 +1,1 @@
+pwd means present working directory, and it shows you where you are right now.

@@ -1,0 +1,1 @@
+a Git branch is like a separate workspace where you can make changes without affecting the main project.

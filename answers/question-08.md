@@ -1,0 +1,1 @@
+ls -la lists all permissions, including hidden ones

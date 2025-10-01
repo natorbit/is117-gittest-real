@@ -1,0 +1,1 @@
+cat displays content of files in the terminal
