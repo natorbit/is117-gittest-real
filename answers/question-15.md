@@ -1,1 +1,1 @@
-use tail command
+to view the last 20 lines of a file, use the tail command

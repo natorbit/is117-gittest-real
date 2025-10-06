@@ -1,1 +1,1 @@
-to create an empty file, do touch
+to create an empty file, use touch. e.g. touch newfile.txt

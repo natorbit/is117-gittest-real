@@ -1,1 +1,1 @@
-git merge combines branches together.
+git merge combines branches together. this is usually done to merge to the main branch after finishing work. 

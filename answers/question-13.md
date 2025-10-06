@@ -1,1 +1,1 @@
-rm -rf forces delete and there is no undo
+rm -rf forces delete and there is no undo. r is recursive and f is forcing without asking.
