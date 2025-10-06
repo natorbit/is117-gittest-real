@@ -1,1 +1,1 @@
-to make a directory, type mkdir. e.g. mkdir new_folder
+to make a directory, type mkdir. this stands for "make directory".
